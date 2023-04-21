@@ -1,5 +1,5 @@
-//import java.util.Scanner;
-//public class CWH_05_TakingInpu  {
+package com.Java.ConditionalStatement;//import java.util.Scanner;
+//public class com.Java.ConditionalStatement.CWH_05_TakingInpu  {
 //    public static void main(String[] args) {
 //        System.out.println("taking input");
 //        Scanner sc = new Scanner(System.in);

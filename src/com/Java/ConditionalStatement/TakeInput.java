@@ -1,3 +1,5 @@
+package com.Java.ConditionalStatement;
+
 import java.util.Scanner;
 
 public class TakeInput {
